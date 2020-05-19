@@ -1,0 +1,82 @@
+# gene name           KO     thrshld  score   E-value KO definition
+#-------------------- ------ ------- ------ --------- ---------------------
+* WP_013975834.1      K02970   29.03   61.1   1.2e-18 small subunit ribosomal protein S21
+* WP_013975839.1      K01940  133.33  280.7   2.5e-85 argininosuccinate synthase [EC:6.3.4.5]
+* WP_013975841.1      K05524  105.03  131.5   3.4e-40 ferredoxin
+* WP_013975843.1      K04043  790.20  874.7    6e-265 molecular chaperone DnaK
+* WP_013975844.1      K01626  128.73  181.3   3.3e-55 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]
+* WP_013975846.1      K00549   42.33  484.0  6.6e-147 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]
+* WP_013975848.1      K02968   25.10   46.8     3e-14 small subunit ribosomal protein S20
+* WP_013975849.1      K02871  117.00  143.3   1.1e-43 large subunit ribosomal protein L13
+* WP_013975850.1      K02996  109.93  142.2   2.2e-43 small subunit ribosomal protein S9
+* WP_013975853.1      K09924   39.83   73.9   2.3e-22 uncharacterized protein
+* WP_013975857.1      K02959   25.60   83.0   3.4e-25 small subunit ribosomal protein S16
+* WP_013975858.1      K02884   21.27   30.7   2.2e-09 large subunit ribosomal protein L19
+* WP_013975859.1      K00297  162.47  220.2   5.1e-67 methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]
+* WP_013975861.1      K04077  162.77  858.1  4.6e-260 chaperonin GroEL
+* WP_013975862.1      K04078   26.00  130.9   5.3e-40 chaperonin GroES
+* WP_013975863.1      K02337  887.40 1080.2         0 DNA polymerase III subunit alpha [EC:2.7.7.7]
+* WP_013975866.1      K00053  113.97  394.7  7.1e-120 ketol-acid reductoisomerase [EC:1.1.1.86]
+* WP_013975868.1      K02956   30.83   79.8   2.8e-24 small subunit ribosomal protein S15
+* WP_013975870.1      K02899   37.17  135.5   2.9e-41 large subunit ribosomal protein L27
+* WP_013975873.1      K02909   23.10   24.8   1.8e-07 large subunit ribosomal protein L31
+* WP_013975879.1      K02990   25.70   42.6   5.5e-13 small subunit ribosomal protein S6
+* WP_013975882.1      K02887   45.17  108.9   2.8e-33 large subunit ribosomal protein L20
+* WP_013975883.1      K02916   21.67   44.4   1.8e-13 large subunit ribosomal protein L35
+* WP_013975885.1      K01736  257.27  420.2    1e-127 chorismate synthase [EC:4.2.3.5]
+* WP_013975887.1      K02967  129.67  195.0   1.6e-59 small subunit ribosomal protein S2
+* WP_013975888.1      K00674  149.60  223.8   3.8e-68 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]
+* WP_013975892.1      K02902   28.13   37.4   2.3e-11 large subunit ribosomal protein L28
+* WP_013975893.1      K02913   25.03   61.9   6.8e-19 large subunit ribosomal protein L33
+* WP_013975894.1      K03704   83.10  123.1   1.1e-37 cold shock protein
+* WP_013975895.1      K01714  257.30  319.6   4.1e-97 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]
+* WP_013975898.1      K04487  285.33  445.4  2.5e-135 cysteine desulfurase [EC:2.8.1.7]
+* WP_013975900.1      K06941   64.60  231.2     2e-70 23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]
+* WP_013975901.1      K02343  242.13  327.3   1.9e-99 DNA polymerase III subunit gamma/tau [EC:2.7.7.7]
+* WP_013975902.1      K03600   48.13   63.2   1.9e-19 stringent starvation protein B
+* WP_013975911.1      K02879   42.53   48.0   1.4e-14 large subunit ribosomal protein L17
+* WP_013975913.1      K02986   72.47  161.6   3.3e-49 small subunit ribosomal protein S4
+* WP_013975916.1      K02919   28.57   52.9   5.6e-16 large subunit ribosomal protein L36
+* WP_013975920.1      K02988  144.40  155.4   2.4e-47 small subunit ribosomal protein S5
+* WP_013975922.1      K02933  110.10  175.2   1.7e-53 large subunit ribosomal protein L6
+* WP_013975924.1      K02954   28.07  100.5   9.8e-31 small subunit ribosomal protein S14
+* WP_013975926.1      K02874  101.27  159.5   9.8e-49 large subunit ribosomal protein L14
+* WP_013975928.1      K02878   89.53  183.0     7e-56 large subunit ribosomal protein L16
+* WP_013975929.1      K02982  111.97  227.7   1.7e-69 small subunit ribosomal protein S3
+* WP_013975930.1      K02965  106.23  112.3   2.7e-34 small subunit ribosomal protein S19
+* WP_013975931.1      K02886  175.20  322.5   4.9e-98 large subunit ribosomal protein L2
+* WP_013975934.1      K02906  123.53  188.0   3.5e-57 large subunit ribosomal protein L3
+* WP_013975935.1      K02946   64.23   69.2   3.8e-21 small subunit ribosomal protein S10
+* WP_013975936.1      K02358  340.90  735.5  2.1e-223 elongation factor Tu
+* WP_013975937.1      K02355  524.23  999.5  2.8e-302 elongation factor G
+* WP_013975938.1      K02992  109.97  147.9   2.8e-45 small subunit ribosomal protein S7
+* WP_013975939.1      K02950   83.67  236.6   2.8e-72 small subunit ribosomal protein S12
+* WP_013975941.1      K03043  672.80 1007.8  6.2e-305 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+* WP_013975944.1      K02867   66.77  148.1   4.3e-45 large subunit ribosomal protein L11
+* WP_013975946.1      K00948   68.37   90.4   1.2e-27 ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+* WP_013975947.1      K02914   19.77   52.0   8.8e-16 large subunit ribosomal protein L34
+* WP_013975950.1      K00616  143.70  244.7   2.4e-74 transaldolase [EC:2.2.1.2]
+* WP_014518610.1      K02342  102.23  162.0   1.7e-49 DNA polymerase III subunit epsilon [EC:2.7.7.7]
+* WP_014518626.1      K02948  104.10  160.5   5.6e-49 small subunit ribosomal protein S11
+* WP_014518628.1      K02876   48.80   98.8   4.5e-30 large subunit ribosomal protein L15
+* WP_014518630.1      K02994   93.70  101.7   3.2e-31 small subunit ribosomal protein S8
+* WP_014518639.1      K02911   20.47   40.1   4.2e-12 large subunit ribosomal protein L32
+* WP_014518640.1      K03687   33.80  101.8   4.5e-31 molecular chaperone GrpE
+* WP_045117946.1      K01358   53.43  299.7   2.9e-91 ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+* WP_045117997.1      K02931  107.17  140.1   8.3e-43 large subunit ribosomal protein L5
+* WP_045118012.1      K02338   51.23   63.7   1.7e-19 DNA polymerase III subunit beta [EC:2.7.7.7]
+* WP_045118028.1      K01687  627.13  712.9  5.2e-216 dihydroxy-acid dehydratase [EC:4.2.1.9]
+* WP_094743906.1      K00800  166.80  248.8   1.2e-75 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]
+* WP_094743907.1      K02945  143.83  404.8  8.1e-123 small subunit ribosomal protein S1
+* WP_094743908.1      K02888   26.33   45.7   5.9e-14 large subunit ribosomal protein L21
+* WP_094743911.1      K02314  110.57  448.7  2.8e-136 replicative DNA helicase [EC:3.6.4.12]
+* WP_094743913.1      K02520   46.63  140.9   7.3e-43 translation initiation factor IF-3
+* WP_094743915.1      K03111   24.23   36.8   3.4e-11 single-strand DNA-binding protein
+* WP_094743918.1      K01735  318.60  339.6  3.8e-103 3-dehydroquinate synthase [EC:4.2.3.4]
+* WP_094743921.1      K02926   75.50  125.0   4.3e-38 large subunit ribosomal protein L4
+* WP_094743922.1      K03046  430.97 1115.8         0 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+* WP_094743923.1      K02935   83.70  115.6   3.9e-35 large subunit ribosomal protein L7/L12
+* WP_094743924.1      K01704  136.70  183.7   4.8e-56 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]
+* WP_094743925.1      K02204  164.10  183.4   6.7e-56 homoserine kinase type II [EC:2.7.1.39]
+* WP_094743926.1      K03544  175.80  447.9  4.5e-136 ATP-dependent Clp protease ATP-binding subunit ClpX
+* WP_094743930.1      K02518   44.03  102.1     2e-31 translation initiation factor IF-1
