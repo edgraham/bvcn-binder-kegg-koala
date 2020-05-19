@@ -1,4 +1,4 @@
-# Binder for BVCN Comparative Genomics lesson
+# Binder for BVCN Functional Annotation lesson 6
 
 Initially forked from [here](https://github.com/binder-examples/conda). Thank you to the awesome [binder](https://mybinder.org/) team!
 
@@ -7,7 +7,7 @@ Initially forked from [here](https://github.com/binder-examples/conda). Thank yo
 Part of the [Bioinformatics Virtual Coordination Network](https://biovcnet.github.io/) :)
 
 
-## Walkthrough (interspecies example with two homologous sequences)
+## Walkthrough
 
 Command description
 
