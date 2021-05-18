@@ -11,3 +11,5 @@ dependencies:
   - prokka
   - htseq
   - bowtie2
+  - prodigal
+  - kofamscan
